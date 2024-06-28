@@ -36,7 +36,6 @@ Otp bot is an automated social engineering tool that can bypass any verification
 **■ CC STEALER (PIN/CVV MODE OPTION)** \
 **■ PGP MODE**
 </br>
-</br>
 > [!IMPORTANT]
 NOTE: There is Have Many Fake Seller For Our Bot, Copying Our Texts, Pages and They are Telling Our "Global OTP Bot" License Key Is SALE (!) Already Real Owner's Username is In The Bot. My Active and Only Username Is: @otpdev on Telegram. Don't Trust and Talk with Other Nicknames/Sellers for Your Safety.
 
